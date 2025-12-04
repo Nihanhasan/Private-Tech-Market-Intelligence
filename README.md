@@ -6,7 +6,7 @@ This project analyzes 100+ of the world's most valuable private technology compa
 ## Problem Statement
 Analyzing private tech companies requires gathering data from <a href = "https://finance.yahoo.com/markets/private-companies/highest-valuation/" > this website </a>. Later we utilized the scraped data to compare metrics across companies and sectors. This project solves that by creating a centralized platform for tracking and comparing private tech companies.
 
-## Interactive Dashboard Components
+## Interactive <a href = "https://public.tableau.com/app/profile/mahmudul.hasan.nihan/viz/PrivateTechMarketIntelligenceDashboard/Dashboard1?publish=yes"> Dashboard</a> Components
   1. Market Overview Treemap: Visualizes sector dominance and valuation distribution
   2. Growth Performance Leaderboard: Ranks companies by 52-week growth
   3. Funding Efficiency Matrix: Quadrant analysis showing capital efficiency
