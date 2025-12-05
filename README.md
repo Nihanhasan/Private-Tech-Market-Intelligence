@@ -18,33 +18,33 @@ Analyzing private tech companies requires gathering data from <a href = "https:/
 
 # Key Insights : Private Tech Market Dashboard
 ## Market Structure
-   <li><b>Extreme concentration : </b> Top 5 companies =  65% of total valuation</li>
-   <li><b>Long tail : </b> 100+ companies analyzed, but value clustered at top</li>
-   <li><b>Valuation tiers : </b>2 Mega-cap (>$100B), 8 Large-cap, 37 Mid-cap, 53+ Small-cap</li>
-   <li><b>Market Concentration : </b> Top 10 companies account for 70% of total valuation</li>
-   <li><b>Sector Diversity : </b> 15+ different sectors represented with varying growth rates</li>
+<li><b>Extreme concentration : </b> Top 5 companies =  65% of total valuation</li>
+<li><b>Long tail : </b> 100+ companies analyzed, but value clustered at top</li>
+<li><b>Valuation tiers : </b>2 Mega-cap (>$100B), 8 Large-cap, 37 Mid-cap, 53+ Small-cap</li>
+<li><b>Market Concentration : </b> Top 10 companies account for 70% of total valuation</li>
+<li><b>Sector Diversity : </b> 15+ different sectors represented with varying growth rates</li>
 
 ##  Sector Performance
-   <li><b>AI dominates : </b>52% of total market value, +142% avg. growth </li>
-   <li><b>Fastest growing : </b>Blockchain (+204%), AI (+142%), GovTech (+121%) </li>
-   <li><b>Space Tech efficient : </b>High valuations with relatively lower funding </li>
+<li><b>AI dominates : </b>52% of total market value, +142% avg. growth </li>
+<li><b>Fastest growing : </b>Blockchain (+204%), AI (+142%), GovTech (+121%) </li>
+<li><b>Space Tech efficient : </b>High valuations with relatively lower funding </li>
 
 ## Capital Efficiency
-   <li><b>Most efficient : </b>SpaceX ($60.90 valuation per $1 raised)</li>
-   <li><b>AI variance : </b>OpenAI (10.2x ratio) vs. Scale AI (2.0x ratio)</li>
-   <li><b>Funding doesn't guarantee value : </b>Some highly funded companies show lower efficiency ratios</li>
+<li><b>Most efficient : </b>SpaceX ($60.90 valuation per $1 raised)</li>
+<li><b>AI variance : </b>OpenAI (10.2x ratio) vs. Scale AI (2.0x ratio)</li>
+<li><b>Funding doesn't guarantee value : </b>Some highly funded companies show lower efficiency ratios</li>
 
 ## Growth Leaders
-   <li><b>Top performers : </b>Ripple (+410%), Anthropic (+231%), OpenAI (+153%)</li>
-   <li><b>Sector trends : </b>100% of AI companies show positive growth</li>
-   <li><b>Recovery signs : </b>Blockchain sector bouncing back strongly</li>
+<li><b>Top performers : </b>Ripple (+410%), Anthropic (+231%), OpenAI (+153%)</li>
+<li><b>Sector trends : </b>100% of AI companies show positive growth</li>
+<li><b>Recovery signs : </b>Blockchain sector bouncing back strongly</li>
 
 ## Strategic Insights
-   <li><b>AI sustainable : </b>Both largest and fastest-growing sector</li>
-   <li><b>Efficiency matters : </b>High valuation-to-funding ratio correlates with strong fundamentals</li>
-   <li><b>Funding evolution : </b>Tender offers increasing for mature private companies</li>
-   <li><b>Sector rotation : </b>Money moving toward AI, Space, Blockchain</li>
-   <li><b>Mid-cap momentum : </b>Strongest growth rates in $1-10B valuation range</li>
+<li><b>AI sustainable : </b>Both largest and fastest-growing sector</li>
+<li><b>Efficiency matters : </b>High valuation-to-funding ratio correlates with strong fundamentals</li>
+<li><b>Funding evolution : </b>Tender offers increasing for mature private companies</li>
+<li><b>Sector rotation : </b>Money moving toward AI, Space, Blockchain</li>
+<li><b>Mid-cap momentum : </b>Strongest growth rates in $1-10B valuation range</li>
 
 ## Build From Sources and Run the file
 1. Clone the repo
